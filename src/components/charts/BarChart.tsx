@@ -67,12 +67,26 @@ const BarChart: React.FC<BarChartProps> = ({ title, data, height, width, horizon
       },
     },
     animation: {
-      duration: 1000
+      duration: 1000,
+      easing: 'easeInOutQuart'
+    },
+    transitions: {
+      active: {
+        animation: {
+          duration: 400
+        }
+      }
+    },
+    hover: {
+      mode: 'nearest',
+      intersect: true,
+      animationDuration: 400
     }
   };
 
   return (
-    <div style={{ height: height || 300, width: width || '100%' }}>
+    <div style={{ height: height || 300, width: width || '100%' }}
+         className="transition-all duration-300 hover:scale-[1.01]">
       <Bar data={data} options={options} />
     </div>
   );

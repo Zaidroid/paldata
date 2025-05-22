@@ -82,11 +82,24 @@ const LineChart: React.FC<LineChartProps> = ({ title, data, height, width }) => 
         to: 0.2,
         loop: false
       }
+    },
+    transitions: {
+      active: {
+        animation: {
+          duration: 400
+        }
+      }
+    },
+    hover: {
+      mode: 'nearest',
+      intersect: true,
+      animationDuration: 400
     }
   };
 
   return (
-    <div style={{ height: height || 300, width: width || '100%' }}>
+    <div style={{ height: height || 300, width: width || '100%' }}
+         className="transition-all duration-300 hover:scale-[1.01]">
       <Line data={data} options={options} />
     </div>
   );
