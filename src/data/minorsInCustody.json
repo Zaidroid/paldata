@@ -1,0 +1,1196 @@
+[
+    {
+      "year": 2,
+      "month": "May",
+      "date_of_statistics": "2025-05-31 00:00:00",
+      "detained_by_ips": [],
+      "detained_by_idf": []
+    },
+    {
+      "year": 2,
+      "month": "May",
+      "date_of_statistics": "IPS",
+      "detained_by_ips": [
+        {
+          "age_group": "Under 14",
+          "detainees": 0,
+          "detained_until_end_of_legal_process": 0,
+          "detained_under_illegal_combatants_law": 0,
+          "sentence": 0,
+          "admin_detainees": 0,
+          "total": 0
+        },
+        {
+          "age_group": "14-16",
+          "detainees": 0,
+          "detained_until_end_of_legal_process": 11,
+          "detained_under_illegal_combatants_law": 3,
+          "sentence": 0,
+          "admin_detainees": 14,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 7,
+          "detained_until_end_of_legal_process": 88,
+          "detained_under_illegal_combatants_law": 45,
+          "sentence": 0,
+          "admin_detainees": 140,
+          "total": 0
+        },
+        {
+          "age_group": "Total",
+          "detainees": 7,
+          "detained_until_end_of_legal_process": 99,
+          "detained_under_illegal_combatants_law": 48,
+          "sentence": 0,
+          "admin_detainees": 154,
+          "total": 0
+        },
+        {
+          "age_group": "Under 14",
+          "detainees": 0,
+          "detained_until_end_of_legal_process": 0,
+          "detained_under_illegal_combatants_law": 0,
+          "sentence": 0,
+          "admin_detainees": 0,
+          "total": 0
+        },
+        {
+          "age_group": "14-16",
+          "detainees": 0,
+          "detained_until_end_of_legal_process": 10,
+          "detained_under_illegal_combatants_law": 6,
+          "sentence": 0,
+          "admin_detainees": 16,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 18,
+          "detained_until_end_of_legal_process": 87,
+          "detained_under_illegal_combatants_law": 52,
+          "sentence": 0,
+          "admin_detainees": 157,
+          "total": 0
+        },
+        {
+          "age_group": "Total",
+          "detainees": 18,
+          "detained_until_end_of_legal_process": 97,
+          "detained_under_illegal_combatants_law": 58,
+          "sentence": 0,
+          "admin_detainees": 173,
+          "total": 0
+        },
+        {
+          "age_group": "Under 14",
+          "detainees": 0,
+          "detained_until_end_of_legal_process": 0,
+          "detained_under_illegal_combatants_law": 0,
+          "sentence": 0,
+          "admin_detainees": 0,
+          "total": 0
+        },
+        {
+          "age_group": "14-16",
+          "detainees": 0,
+          "detained_until_end_of_legal_process": 7,
+          "detained_under_illegal_combatants_law": 8,
+          "sentence": 0,
+          "admin_detainees": 15,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 10,
+          "detained_until_end_of_legal_process": 77,
+          "detained_under_illegal_combatants_law": 57,
+          "sentence": 0,
+          "admin_detainees": 144,
+          "total": 0
+        },
+        {
+          "age_group": "Total",
+          "detainees": 10,
+          "detained_until_end_of_legal_process": 84,
+          "detained_under_illegal_combatants_law": 65,
+          "sentence": 0,
+          "admin_detainees": 159,
+          "total": 0
+        },
+        {
+          "age_group": "Under 14",
+          "detainees": 0,
+          "detained_until_end_of_legal_process": 0,
+          "detained_under_illegal_combatants_law": 0,
+          "sentence": 0,
+          "admin_detainees": 0,
+          "total": 0
+        },
+        {
+          "age_group": "14-16",
+          "detainees": 4,
+          "detained_until_end_of_legal_process": 12,
+          "detained_under_illegal_combatants_law": 11,
+          "sentence": 0,
+          "admin_detainees": 27,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 13,
+          "detained_until_end_of_legal_process": 84,
+          "detained_under_illegal_combatants_law": 55,
+          "sentence": 0,
+          "admin_detainees": 152,
+          "total": 0
+        },
+        {
+          "age_group": "Total",
+          "detainees": 17,
+          "detained_until_end_of_legal_process": 96,
+          "detained_under_illegal_combatants_law": 66,
+          "sentence": 0,
+          "admin_detainees": 179,
+          "total": 0
+        },
+        {
+          "age_group": "Under 14",
+          "detainees": 0,
+          "detained_until_end_of_legal_process": 1,
+          "detained_under_illegal_combatants_law": 0,
+          "sentence": 0,
+          "admin_detainees": 1,
+          "total": 0
+        },
+        {
+          "age_group": "14-16",
+          "detainees": 2,
+          "detained_until_end_of_legal_process": 16,
+          "detained_under_illegal_combatants_law": 12,
+          "sentence": 0,
+          "admin_detainees": 30,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 8,
+          "detained_until_end_of_legal_process": 88,
+          "detained_under_illegal_combatants_law": 53,
+          "sentence": 0,
+          "admin_detainees": 149,
+          "total": 0
+        },
+        {
+          "age_group": "Total",
+          "detainees": 10,
+          "detained_until_end_of_legal_process": 105,
+          "detained_under_illegal_combatants_law": 65,
+          "sentence": 0,
+          "admin_detainees": 180,
+          "total": 0
+        },
+        {
+          "age_group": "Under 14",
+          "detainees": 0,
+          "detained_until_end_of_legal_process": 1,
+          "detained_under_illegal_combatants_law": 2,
+          "sentence": 0,
+          "admin_detainees": 3,
+          "total": 0
+        },
+        {
+          "age_group": "14-16",
+          "detainees": 4,
+          "detained_until_end_of_legal_process": 14,
+          "detained_under_illegal_combatants_law": 14,
+          "sentence": 0,
+          "admin_detainees": 32,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 11,
+          "detained_until_end_of_legal_process": 80,
+          "detained_under_illegal_combatants_law": 69,
+          "sentence": 0,
+          "admin_detainees": 160,
+          "total": 0
+        },
+        {
+          "age_group": "Total",
+          "detainees": 15,
+          "detained_until_end_of_legal_process": 95,
+          "detained_under_illegal_combatants_law": 85,
+          "sentence": 0,
+          "admin_detainees": 195,
+          "total": 0
+        },
+        {
+          "age_group": "Under 14",
+          "detainees": 1,
+          "detained_until_end_of_legal_process": 1,
+          "detained_under_illegal_combatants_law": 2,
+          "sentence": 0,
+          "admin_detainees": 4,
+          "total": 0
+        },
+        {
+          "age_group": "14-16",
+          "detainees": 1,
+          "detained_until_end_of_legal_process": 15,
+          "detained_under_illegal_combatants_law": 21,
+          "sentence": 0,
+          "admin_detainees": 37,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 2,
+          "detained_until_end_of_legal_process": 81,
+          "detained_under_illegal_combatants_law": 69,
+          "sentence": 0,
+          "admin_detainees": 152,
+          "total": 0
+        },
+        {
+          "age_group": "Total",
+          "detainees": 4,
+          "detained_until_end_of_legal_process": 97,
+          "detained_under_illegal_combatants_law": 92,
+          "sentence": 0,
+          "admin_detainees": 193,
+          "total": 0
+        }
+      ],
+      "detained_by_idf": []
+    },
+    {
+      "year": 2,
+      "month": "May",
+      "date_of_statistics": "IPS",
+      "detained_by_ips": [
+        {
+          "age_group": "Under 14",
+          "detainees": 0,
+          "detained_until_end_of_legal_process": 3,
+          "detained_under_illegal_combatants_law": 1,
+          "sentence": 0,
+          "admin_detainees": 4,
+          "total": 0
+        },
+        {
+          "age_group": "14-16",
+          "detainees": 5,
+          "detained_until_end_of_legal_process": 22,
+          "detained_under_illegal_combatants_law": 17,
+          "sentence": 0,
+          "admin_detainees": 44,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 8,
+          "detained_until_end_of_legal_process": 80,
+          "detained_under_illegal_combatants_law": 87,
+          "sentence": 0,
+          "admin_detainees": 175,
+          "total": 0
+        },
+        {
+          "age_group": "Total",
+          "detainees": 13,
+          "detained_until_end_of_legal_process": 105,
+          "detained_under_illegal_combatants_law": 105,
+          "sentence": 0,
+          "admin_detainees": 223,
+          "total": 0
+        },
+        {
+          "age_group": "Under 14",
+          "detainees": 0,
+          "detained_until_end_of_legal_process": 0,
+          "detained_under_illegal_combatants_law": 0,
+          "sentence": 0,
+          "admin_detainees": 0,
+          "total": 0
+        },
+        {
+          "age_group": "14-16",
+          "detainees": 8,
+          "detained_until_end_of_legal_process": 21,
+          "detained_under_illegal_combatants_law": 15,
+          "sentence": 0,
+          "admin_detainees": 44,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 16,
+          "detained_until_end_of_legal_process": 84,
+          "detained_under_illegal_combatants_law": 92,
+          "sentence": 0,
+          "admin_detainees": 192,
+          "total": 0
+        },
+        {
+          "age_group": "Total",
+          "detainees": 24,
+          "detained_until_end_of_legal_process": 105,
+          "detained_under_illegal_combatants_law": 107,
+          "sentence": 0,
+          "admin_detainees": 236,
+          "total": 0
+        },
+        {
+          "age_group": "Under 14",
+          "detainees": 0,
+          "detained_until_end_of_legal_process": 0,
+          "detained_under_illegal_combatants_law": 0,
+          "sentence": 0,
+          "admin_detainees": 0,
+          "total": 0
+        },
+        {
+          "age_group": "14-16",
+          "detainees": 5,
+          "detained_until_end_of_legal_process": 24,
+          "detained_under_illegal_combatants_law": 10,
+          "sentence": 0,
+          "admin_detainees": 39,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 15,
+          "detained_until_end_of_legal_process": 92,
+          "detained_under_illegal_combatants_law": 90,
+          "sentence": 0,
+          "admin_detainees": 197,
+          "total": 0
+        },
+        {
+          "age_group": "Total",
+          "detainees": 20,
+          "detained_until_end_of_legal_process": 116,
+          "detained_under_illegal_combatants_law": 100,
+          "sentence": 0,
+          "admin_detainees": 236,
+          "total": 0
+        },
+        {
+          "age_group": "Under 14",
+          "detainees": 0,
+          "detained_until_end_of_legal_process": 0,
+          "detained_under_illegal_combatants_law": 0,
+          "sentence": 0,
+          "admin_detainees": 0,
+          "total": 0
+        },
+        {
+          "age_group": "14-16",
+          "detainees": 8,
+          "detained_until_end_of_legal_process": 21,
+          "detained_under_illegal_combatants_law": 10,
+          "sentence": 0,
+          "admin_detainees": 39,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 23,
+          "detained_until_end_of_legal_process": 98,
+          "detained_under_illegal_combatants_law": 74,
+          "sentence": 0,
+          "admin_detainees": 195,
+          "total": 0
+        },
+        {
+          "age_group": "Total",
+          "detainees": 31,
+          "detained_until_end_of_legal_process": 119,
+          "detained_under_illegal_combatants_law": 84,
+          "sentence": 0,
+          "admin_detainees": 234,
+          "total": 0
+        },
+        {
+          "age_group": "Under 14",
+          "detainees": 0,
+          "detained_until_end_of_legal_process": 0,
+          "detained_under_illegal_combatants_law": 0,
+          "sentence": 0,
+          "admin_detainees": 0,
+          "total": 0
+        },
+        {
+          "age_group": "14-16",
+          "detainees": 0,
+          "detained_until_end_of_legal_process": 21,
+          "detained_under_illegal_combatants_law": 10,
+          "sentence": 0,
+          "admin_detainees": 31,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 8,
+          "detained_until_end_of_legal_process": 95,
+          "detained_under_illegal_combatants_law": 85,
+          "sentence": 0,
+          "admin_detainees": 188,
+          "total": 0
+        },
+        {
+          "age_group": "Total",
+          "detainees": 8,
+          "detained_until_end_of_legal_process": 116,
+          "detained_under_illegal_combatants_law": 95,
+          "sentence": 0,
+          "admin_detainees": 219,
+          "total": 0
+        }
+      ],
+      "detained_by_idf": []
+    },
+    {
+      "year": 2,
+      "month": "May",
+      "date_of_statistics": "2025-05-31 00:00:00",
+      "detained_by_ips": [
+        {
+          "age_group": "16-18",
+          "detainees": 17,
+          "detained_until_end_of_legal_process": 86,
+          "detained_under_illegal_combatants_law": 67,
+          "sentence": 0,
+          "admin_detainees": 170,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 20,
+          "detained_until_end_of_legal_process": 94,
+          "detained_under_illegal_combatants_law": 42,
+          "sentence": 0,
+          "admin_detainees": 156,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 9,
+          "detained_until_end_of_legal_process": 85,
+          "detained_under_illegal_combatants_law": 49,
+          "sentence": 0,
+          "admin_detainees": 143,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 12,
+          "detained_until_end_of_legal_process": 88,
+          "detained_under_illegal_combatants_law": 61,
+          "sentence": 0,
+          "admin_detainees": 161,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 8,
+          "detained_until_end_of_legal_process": 113,
+          "detained_under_illegal_combatants_law": 43,
+          "sentence": 0,
+          "admin_detainees": 164,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 5,
+          "detained_until_end_of_legal_process": 117,
+          "detained_under_illegal_combatants_law": 54,
+          "sentence": 0,
+          "admin_detainees": 176,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 12,
+          "detained_until_end_of_legal_process": 127,
+          "detained_under_illegal_combatants_law": 46,
+          "sentence": 0,
+          "admin_detainees": 185,
+          "total": 0
+        }
+      ],
+      "detained_by_idf": []
+    },
+    {
+      "year": 2,
+      "month": "May",
+      "date_of_statistics": "IPS",
+      "detained_by_ips": [
+        {
+          "age_group": "16-18",
+          "detainees": 13,
+          "detained_until_end_of_legal_process": 136,
+          "detained_under_illegal_combatants_law": 43,
+          "sentence": 0,
+          "admin_detainees": 192,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 20,
+          "detained_until_end_of_legal_process": 132,
+          "detained_under_illegal_combatants_law": 33,
+          "sentence": 0,
+          "admin_detainees": 185,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 14,
+          "detained_until_end_of_legal_process": 122,
+          "detained_under_illegal_combatants_law": 36,
+          "sentence": 0,
+          "admin_detainees": 172,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 21,
+          "detained_until_end_of_legal_process": 100,
+          "detained_under_illegal_combatants_law": 38,
+          "sentence": 0,
+          "admin_detainees": 159,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 18,
+          "detained_until_end_of_legal_process": 90,
+          "detained_under_illegal_combatants_law": 32,
+          "sentence": 0,
+          "admin_detainees": 140,
+          "total": 0
+        }
+      ],
+      "detained_by_idf": []
+    },
+    {
+      "year": 2,
+      "month": "May",
+      "date_of_statistics": "2025-05-31 00:00:00",
+      "detained_by_ips": [
+        {
+          "age_group": "16-18",
+          "detainees": 26,
+          "detained_until_end_of_legal_process": 62,
+          "detained_under_illegal_combatants_law": 24,
+          "sentence": 1,
+          "admin_detainees": 113,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 14,
+          "detained_until_end_of_legal_process": 61,
+          "detained_under_illegal_combatants_law": 51,
+          "sentence": 0,
+          "admin_detainees": 126,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 11,
+          "detained_until_end_of_legal_process": 60,
+          "detained_under_illegal_combatants_law": 49,
+          "sentence": 0,
+          "admin_detainees": 120,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 5,
+          "detained_until_end_of_legal_process": 56,
+          "detained_under_illegal_combatants_law": 66,
+          "sentence": 0,
+          "admin_detainees": 127,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 10,
+          "detained_until_end_of_legal_process": 74,
+          "detained_under_illegal_combatants_law": 61,
+          "sentence": 0,
+          "admin_detainees": 145,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 9,
+          "detained_until_end_of_legal_process": 79,
+          "detained_under_illegal_combatants_law": 73,
+          "sentence": 0,
+          "admin_detainees": 161,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 3,
+          "detained_until_end_of_legal_process": 81,
+          "detained_under_illegal_combatants_law": 85,
+          "sentence": 0,
+          "admin_detainees": 169,
+          "total": 0
+        }
+      ],
+      "detained_by_idf": []
+    },
+    {
+      "year": 2,
+      "month": "May",
+      "date_of_statistics": "IPS",
+      "detained_by_ips": [
+        {
+          "age_group": "16-18",
+          "detainees": 15,
+          "detained_until_end_of_legal_process": 91,
+          "detained_under_illegal_combatants_law": 66,
+          "sentence": 0,
+          "admin_detainees": 172,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 14,
+          "detained_until_end_of_legal_process": 102,
+          "detained_under_illegal_combatants_law": 64,
+          "sentence": 0,
+          "admin_detainees": 180,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 8,
+          "detained_until_end_of_legal_process": 92,
+          "detained_under_illegal_combatants_law": 78,
+          "sentence": 0,
+          "admin_detainees": 178,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 12,
+          "detained_until_end_of_legal_process": 90,
+          "detained_under_illegal_combatants_law": 69,
+          "sentence": 0,
+          "admin_detainees": 171,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 12,
+          "detained_until_end_of_legal_process": 85,
+          "detained_under_illegal_combatants_law": 90,
+          "sentence": 0,
+          "admin_detainees": 187,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 4,
+          "detained_until_end_of_legal_process": 84,
+          "detained_under_illegal_combatants_law": 91,
+          "sentence": 1,
+          "admin_detainees": 180,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 7,
+          "detained_until_end_of_legal_process": 92,
+          "detained_under_illegal_combatants_law": 93,
+          "sentence": 2,
+          "admin_detainees": 194,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 15,
+          "detained_until_end_of_legal_process": 95,
+          "detained_under_illegal_combatants_law": 105,
+          "sentence": 2,
+          "admin_detainees": 217,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 8,
+          "detained_until_end_of_legal_process": 111,
+          "detained_under_illegal_combatants_law": 111,
+          "sentence": 2,
+          "admin_detainees": 232,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 19,
+          "detained_until_end_of_legal_process": 109,
+          "detained_under_illegal_combatants_law": 130,
+          "sentence": 2,
+          "admin_detainees": 260,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 15,
+          "detained_until_end_of_legal_process": 111,
+          "detained_under_illegal_combatants_law": 135,
+          "sentence": 2,
+          "admin_detainees": 263,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 17,
+          "detained_until_end_of_legal_process": 117,
+          "detained_under_illegal_combatants_law": 128,
+          "sentence": 2,
+          "admin_detainees": 264,
+          "total": 0
+        }
+      ],
+      "detained_by_idf": []
+    },
+    {
+      "year": 2,
+      "month": "May",
+      "date_of_statistics": "IPS",
+      "detained_by_ips": [
+        {
+          "age_group": "16-18",
+          "detainees": 9,
+          "detained_until_end_of_legal_process": 135,
+          "detained_under_illegal_combatants_law": 129,
+          "sentence": 2,
+          "admin_detainees": 275,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 19,
+          "detained_until_end_of_legal_process": 140,
+          "detained_under_illegal_combatants_law": 135,
+          "sentence": 2,
+          "admin_detainees": 296,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 14,
+          "detained_until_end_of_legal_process": 153,
+          "detained_under_illegal_combatants_law": 129,
+          "sentence": 2,
+          "admin_detainees": 298,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 32,
+          "detained_until_end_of_legal_process": 141,
+          "detained_under_illegal_combatants_law": 124,
+          "sentence": 0,
+          "admin_detainees": 297,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 30,
+          "detained_until_end_of_legal_process": 132,
+          "detained_under_illegal_combatants_law": 108,
+          "sentence": 0,
+          "admin_detainees": 270,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 29,
+          "detained_until_end_of_legal_process": 118,
+          "detained_under_illegal_combatants_law": 110,
+          "sentence": 0,
+          "admin_detainees": 257,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 18,
+          "detained_until_end_of_legal_process": 117,
+          "detained_under_illegal_combatants_law": 119,
+          "sentence": 1,
+          "admin_detainees": 255,
+          "total": 0
+        }
+      ],
+      "detained_by_idf": []
+    },
+    {
+      "year": 2,
+      "month": "Oct",
+      "date_of_statistics": "IPS",
+      "detained_by_ips": [
+        {
+          "age_group": "16-18",
+          "detainees": 20,
+          "detained_until_end_of_legal_process": 123,
+          "detained_under_illegal_combatants_law": 125,
+          "sentence": 1,
+          "admin_detainees": 269,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 9,
+          "detained_until_end_of_legal_process": 155,
+          "detained_under_illegal_combatants_law": 110,
+          "sentence": 1,
+          "admin_detainees": 275,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 13,
+          "detained_until_end_of_legal_process": 146,
+          "detained_under_illegal_combatants_law": 130,
+          "sentence": 1,
+          "admin_detainees": 290,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 10,
+          "detained_until_end_of_legal_process": 148,
+          "detained_under_illegal_combatants_law": 132,
+          "sentence": 1,
+          "admin_detainees": 291,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 25,
+          "detained_until_end_of_legal_process": 127,
+          "detained_under_illegal_combatants_law": 137,
+          "sentence": 1,
+          "admin_detainees": 290,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 1,
+          "detained_until_end_of_legal_process": "*",
+          "detained_under_illegal_combatants_law": "*",
+          "sentence": "*",
+          "admin_detainees": 1,
+          "total": 0
+        }
+      ],
+      "detained_by_idf": []
+    },
+    {
+      "year": 2,
+      "month": "May",
+      "date_of_statistics": "IPS",
+      "detained_by_ips": [
+        {
+          "age_group": "16-18",
+          "detainees": 10,
+          "detained_until_end_of_legal_process": 146,
+          "detained_under_illegal_combatants_law": 141,
+          "sentence": 1,
+          "admin_detainees": 298,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 1,
+          "detained_until_end_of_legal_process": "*",
+          "detained_under_illegal_combatants_law": "*",
+          "sentence": "*",
+          "admin_detainees": 1,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 20,
+          "detained_until_end_of_legal_process": 152,
+          "detained_under_illegal_combatants_law": 159,
+          "sentence": 2,
+          "admin_detainees": 333,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 28,
+          "detained_until_end_of_legal_process": 161,
+          "detained_under_illegal_combatants_law": 164,
+          "sentence": 2,
+          "admin_detainees": 355,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 8,
+          "detained_until_end_of_legal_process": "*",
+          "detained_under_illegal_combatants_law": "*",
+          "sentence": "*",
+          "admin_detainees": 8,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 29,
+          "detained_until_end_of_legal_process": 175,
+          "detained_under_illegal_combatants_law": 136,
+          "sentence": 6,
+          "admin_detainees": 346,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": "*",
+          "detained_until_end_of_legal_process": "*",
+          "detained_under_illegal_combatants_law": "*",
+          "sentence": 0,
+          "admin_detainees": 12,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 28,
+          "detained_until_end_of_legal_process": 180,
+          "detained_under_illegal_combatants_law": 111,
+          "sentence": 5,
+          "admin_detainees": 324,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": "*",
+          "detained_until_end_of_legal_process": "*",
+          "detained_under_illegal_combatants_law": "*",
+          "sentence": 0,
+          "admin_detainees": 14,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 12,
+          "detained_until_end_of_legal_process": 175,
+          "detained_under_illegal_combatants_law": 110,
+          "sentence": 6,
+          "admin_detainees": 303,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": "*",
+          "detained_until_end_of_legal_process": "*",
+          "detained_under_illegal_combatants_law": "*",
+          "sentence": "*",
+          "admin_detainees": 13,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 37,
+          "detained_until_end_of_legal_process": 145,
+          "detained_under_illegal_combatants_law": 106,
+          "sentence": 5,
+          "admin_detainees": 293,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": "*",
+          "detained_until_end_of_legal_process": "*",
+          "detained_under_illegal_combatants_law": "*",
+          "sentence": "*",
+          "admin_detainees": 19,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 23,
+          "detained_until_end_of_legal_process": 154,
+          "detained_under_illegal_combatants_law": 83,
+          "sentence": 8,
+          "admin_detainees": 268,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": "*",
+          "detained_until_end_of_legal_process": "*",
+          "detained_under_illegal_combatants_law": "*",
+          "sentence": "*",
+          "admin_detainees": 6,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 26,
+          "detained_until_end_of_legal_process": 150,
+          "detained_under_illegal_combatants_law": 86,
+          "sentence": 11,
+          "admin_detainees": 273,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": "*",
+          "detained_until_end_of_legal_process": "*",
+          "detained_under_illegal_combatants_law": "*",
+          "sentence": "*",
+          "admin_detainees": 8,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 19,
+          "detained_until_end_of_legal_process": 158,
+          "detained_under_illegal_combatants_law": 65,
+          "sentence": 13,
+          "admin_detainees": 255,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": "*",
+          "detained_until_end_of_legal_process": "*",
+          "detained_under_illegal_combatants_law": "*",
+          "sentence": "*",
+          "admin_detainees": 14,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 23,
+          "detained_until_end_of_legal_process": 161,
+          "detained_under_illegal_combatants_law": 83,
+          "sentence": 13,
+          "admin_detainees": 280,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 19,
+          "detained_until_end_of_legal_process": 164,
+          "detained_under_illegal_combatants_law": 81,
+          "sentence": 13,
+          "admin_detainees": 277,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": "*",
+          "detained_until_end_of_legal_process": "*",
+          "detained_under_illegal_combatants_law": "*",
+          "sentence": 0,
+          "admin_detainees": 5,
+          "total": 0
+        }
+      ],
+      "detained_by_idf": []
+    },
+    {
+      "year": 2,
+      "month": "May",
+      "date_of_statistics": "IPS",
+      "detained_by_ips": [
+        {
+          "age_group": "16-18",
+          "detainees": 19,
+          "detained_until_end_of_legal_process": 161,
+          "detained_under_illegal_combatants_law": 92,
+          "sentence": 10,
+          "admin_detainees": 282,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": "*",
+          "detained_until_end_of_legal_process": "*",
+          "detained_under_illegal_combatants_law": "*",
+          "sentence": 0,
+          "admin_detainees": 9,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 33,
+          "detained_until_end_of_legal_process": 131,
+          "detained_under_illegal_combatants_law": 95,
+          "sentence": 12,
+          "admin_detainees": 271,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 24,
+          "detained_until_end_of_legal_process": 128,
+          "detained_under_illegal_combatants_law": 99,
+          "sentence": 13,
+          "admin_detainees": 264,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": "*",
+          "detained_until_end_of_legal_process": "*",
+          "detained_under_illegal_combatants_law": "*",
+          "sentence": 0,
+          "admin_detainees": 15,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 11,
+          "detained_until_end_of_legal_process": 143,
+          "detained_under_illegal_combatants_law": 103,
+          "sentence": 3,
+          "admin_detainees": 260,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": "*",
+          "detained_until_end_of_legal_process": "*",
+          "detained_under_illegal_combatants_law": "*",
+          "sentence": "*",
+          "admin_detainees": 13,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": 21,
+          "detained_until_end_of_legal_process": 145,
+          "detained_under_illegal_combatants_law": 100,
+          "sentence": 18,
+          "admin_detainees": 284,
+          "total": 0
+        },
+        {
+          "age_group": "16-18",
+          "detainees": "*",
+          "detained_until_end_of_legal_process": "*",
+          "detained_under_illegal_combatants_law": "*",
+          "sentence": "*",
+          "admin_detainees": 6,
+          "total": 0
+        }
+      ],
+      "detained_by_idf": []
+    }
+]
