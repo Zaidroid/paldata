@@ -1,5 +1,5 @@
 import React, { createContext, useContext, useState, useEffect, ReactNode } from 'react';
-import palestineData from '../data/palestine-data-combined.json';
+import palestineData from '../data/palestineData';
 
 interface DataContextType {
   data: any; // Using any temporarily while we integrate the new data structure
