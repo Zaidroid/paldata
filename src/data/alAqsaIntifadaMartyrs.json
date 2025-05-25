@@ -1,0 +1,102 @@
+{
+    "title_ar": "شهداء انتفاضة الأقصى حسب السنة 2000 - 2022",
+    "title_en": "Martyrs of Al-Aqsa Intifada by Year 2000 - 2022",
+    "data_note_ar": "البيانات للفترة 29 أيلول - 31 كانون 2000، وهي عرضة للتغيير نتيجة الأبحاث الجارية، وتعكس الحالات الموثقة فقط",
+    "data_note_en": "Data for the period September 29 - December 31, 2000, subject to change due to ongoing research, and reflects documented cases only.",
+    "years": [
+      {
+        "year": 2000,
+        "count": 333,
+        "note": "Data for Sep 29 - Dec 31, 2000"
+      },
+      {
+        "year": 2001,
+        "count": 605
+      },
+      {
+        "year": 2002,
+        "count": 1192
+      },
+      {
+        "year": 2003,
+        "count": 687
+      },
+      {
+        "year": 2004,
+        "count": 895
+      },
+      {
+        "year": 2005,
+        "count": 261
+      },
+      {
+        "year": 2006,
+        "count": 700
+      },
+      {
+        "year": 2007,
+        "count": 409
+      },
+      {
+        "year": 2008,
+        "count": 934
+      },
+      {
+        "year": 2009,
+        "count": 1219
+      },
+      {
+        "year": 2010,
+        "count": 107
+      },
+      {
+        "year": 2011,
+        "count": 118
+      },
+      {
+        "year": 2012,
+        "count": 306
+      },
+      {
+        "year": 2013,
+        "count": 56
+      },
+      {
+        "year": 2014,
+        "count": 2240
+      },
+      {
+        "year": 2015,
+        "count": 181
+      },
+      {
+        "year": 2016,
+        "count": 126
+      },
+      {
+        "year": 2017,
+        "count": 94
+      },
+      {
+        "year": 2018,
+        "count": 312
+      },
+      {
+        "year": 2019,
+        "count": 151
+      },
+      {
+        "year": 2020,
+        "count": 43
+      },
+      {
+        "year": 2021,
+        "count": 341
+      },
+      {
+        "year": 2022,
+        "count": 231
+      }
+    ],
+    "total": 11541
+}

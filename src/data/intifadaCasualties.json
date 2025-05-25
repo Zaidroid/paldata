@@ -1,0 +1,205 @@
+{
+    "title_ar": "بيانات ضحايا الانتفاضة",
+    "title_en": "Intifada Casualties Data",
+    "palestinians_occupied_territories": [
+      {
+        "year": "1987",
+        "killedBySecurityForces": 22,
+        "minorsBySecurityForces": 5,
+        "killedByCivilians": 0,
+        "minorsByCivilians": 0
+      },
+      {
+        "year": "1988",
+        "killedBySecurityForces": 289,
+        "minorsBySecurityForces": 48,
+        "killedByCivilians": 15,
+        "minorsByCivilians": 2
+      },
+      {
+        "year": "1989",
+        "killedBySecurityForces": 285,
+        "minorsBySecurityForces": 78,
+        "killedByCivilians": 17,
+        "minorsByCivilians": 5
+      },
+      {
+        "year": "1990",
+        "killedBySecurityForces": 125,
+        "minorsBySecurityForces": 23,
+        "killedByCivilians": 9,
+        "minorsByCivilians": 2
+      },
+      {
+        "year": "1991",
+        "killedBySecurityForces": 91,
+        "minorsBySecurityForces": 24,
+        "killedByCivilians": 6,
+        "minorsByCivilians": 3
+      },
+      {
+        "year": "1992",
+        "killedBySecurityForces": 134,
+        "minorsBySecurityForces": 23,
+        "killedByCivilians": 2,
+        "minorsByCivilians": 0
+      },
+      {
+        "year": "1993-pre",
+        "killedBySecurityForces": 124,
+        "minorsBySecurityForces": 36,
+        "killedByCivilians": 5,
+        "minorsByCivilians": 1
+      },
+      {
+        "year": "1993-post",
+        "killedBySecurityForces": 30,
+        "minorsBySecurityForces": 4,
+        "killedByCivilians": 8,
+        "minorsByCivilians": 0
+      },
+      {
+        "year": "1994",
+        "killedBySecurityForces": 106,
+        "minorsBySecurityForces": 16,
+        "killedByCivilians": 38,
+        "minorsByCivilians": 8
+      },
+      {
+        "year": "1995",
+        "killedBySecurityForces": 42,
+        "minorsBySecurityForces": 4,
+        "killedByCivilians": 2,
+        "minorsByCivilians": 1
+      },
+      {
+        "year": "1996",
+        "killedBySecurityForces": 69,
+        "minorsBySecurityForces": 10,
+        "killedByCivilians": 3,
+        "minorsByCivilians": 1
+      },
+      {
+        "year": "1997",
+        "killedBySecurityForces": 18,
+        "minorsBySecurityForces": 5,
+        "killedByCivilians": 4,
+        "minorsByCivilians": 0
+      },
+      {
+        "year": "1998",
+        "killedBySecurityForces": 21,
+        "minorsBySecurityForces": 3,
+        "killedByCivilians": 6,
+        "minorsByCivilians": 0
+      },
+      {
+        "year": "1999",
+        "killedBySecurityForces": 8,
+        "minorsBySecurityForces": 0,
+        "killedByCivilians": 0,
+        "minorsByCivilians": 0
+      },
+      {
+        "year": "2000-pre",
+        "killedBySecurityForces": 12,
+        "minorsBySecurityForces": 2,
+        "killedByCivilians": 0,
+        "minorsByCivilians": 0
+      }
+    ],
+    "israelis_occupied_territories": [
+      {
+        "year": "1987",
+        "civiliansKilled": 0,
+        "minors": 0,
+        "securityForcesKilled": 0
+      },
+      {
+        "year": "1988",
+        "civiliansKilled": 6,
+        "minors": 3,
+        "securityForcesKilled": 4
+      },
+      {
+        "year": "1989",
+        "civiliansKilled": 3,
+        "minors": 0,
+        "securityForcesKilled": 6
+      },
+      {
+        "year": "1990",
+        "civiliansKilled": 4,
+        "minors": 0,
+        "securityForcesKilled": 3
+      },
+      {
+        "year": "1991",
+        "civiliansKilled": 7,
+        "minors": 0,
+        "securityForcesKilled": 1
+      },
+      {
+        "year": "1992",
+        "civiliansKilled": 11,
+        "minors": 0,
+        "securityForcesKilled": 14
+      },
+      {
+        "year": "1993-pre",
+        "civiliansKilled": 16,
+        "minors": 0,
+        "securityForcesKilled": 15
+      },
+      {
+        "year": "1993-post",
+        "civiliansKilled": 11,
+        "minors": 0,
+        "securityForcesKilled": 3
+      },
+      {
+        "year": "1994",
+        "civiliansKilled": 11,
+        "minors": 0,
+        "securityForcesKilled": 12
+      },
+      {
+        "year": "1995",
+        "civiliansKilled": 7,
+        "minors": 0,
+        "securityForcesKilled": 9
+      },
+      {
+        "year": "1996",
+        "civiliansKilled": 3,
+        "minors": 1,
+        "securityForcesKilled": 19
+      },
+      {
+        "year": "1997",
+        "civiliansKilled": 4,
+        "minors": 0,
+        "securityForcesKilled": 0
+      },
+      {
+        "year": "1998",
+        "civiliansKilled": 8,
+        "minors": 0,
+        "securityForcesKilled": 3
+      },
+      {
+        "year": "1999",
+        "civiliansKilled": 1,
+        "minors": 0,
+        "securityForcesKilled": 2
+      },
+      {
+        "year": "2000-pre",
+        "civiliansKilled": 2,
+        "minors": 0,
+        "securityForcesKilled": 0
+      }
+    ],
+    "palestinians_israel": [],
+    "israelis_israel": []
+}

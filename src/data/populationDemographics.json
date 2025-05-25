@@ -1,0 +1,86 @@
+[
+    {
+      "governorate_ar": "الضفة الغربية (المجموع)",
+      "governorate_en": "West Bank (Total)",
+      "year": 2022,
+      "total_population": 3190000,
+      "population_density_sqkm": 563
+    },
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2022,
+      "total_population": 345200,
+      "population_density_sqkm": 592
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2022,
+      "total_population": 68300,
+      "population_density_sqkm": 167
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2022,
+      "total_population": 201500,
+      "population_density_sqkm": 817
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2022,
+      "total_population": 423800,
+      "population_density_sqkm": 708
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2022,
+      "total_population": 124700,
+      "population_density_sqkm": 754
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2022,
+      "total_population": 84200,
+      "population_density_sqkm": 412
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2022,
+      "total_population": 374200,
+      "population_density_sqkm": 438
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2022,
+      "total_population": 56300,
+      "population_density_sqkm": 95
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2022,
+      "total_population": 481200,
+      "population_density_sqkm": 1377
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2022,
+      "total_population": 246800,
+      "population_density_sqkm": 377
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2022,
+      "total_population": 803800,
+      "population_density_sqkm": 804
+    }
+]

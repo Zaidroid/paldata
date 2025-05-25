@@ -1,0 +1,36 @@
+{
+    "title_ar": "مؤشرات مختارة للمواقع الاستعمارية في الضفة الغربية",
+    "title_en": "Selected Indicators for Colonial Sites in the West Bank",
+    "colonial_sites_2021": {
+      "note_ar": "* البيانات الواردة في هذا الجدول حول عدد المستعمرات الإسرائيلية والمواقع الإستعمارية لا تتسق مع ما يتم نشره من مصادر أخرى لاختلاف التعريفات والتصنيفات.",
+      "note_en": "* Data in this table on Israeli settlements and colonial sites may not align with other sources due to differing definitions and classifications.",
+      "settlements": 151,
+      "outposts": 163,
+      "inhabited_outposts_as_neighborhoods": 25,
+      "other_sites": 144,
+      "total_sites": 483
+    },
+    "influence_area_sqkm_2021": 537,
+    "militarily_closed_zones_sqkm_2021": 1016,
+    "annexation_expansion_wall_2017": {
+      "completed_path_km": 488,
+      "total_path_km": 714,
+      "percentage_settlers_inside_wall": 88
+    },
+    "settler_population_comparison": {
+      "settlers_west_bank_1972": 12403,
+      "settlers_west_bank_2021": 719452,
+      "jews_historic_palestine_occupied_territories_1972": 2752700,
+      "jews_historic_palestine_occupied_territories_2021": 6982600
+    },
+    "sources_ar": [
+      "هيئة مقاومة الجدار والإستيطان، 2022 قاعدة بيانات الإستيطان. رام الله- فلسطين.",
+      "وزارة الحكم المحلي، 2017. نظام وزارة الحكم المحلي المتكامل لادارة المعلومات المكانية (GeoMOLG). رام الله- فلسطين.",
+      "مكتب الإحصاء المركزي الإسرائيلي، 2022 الكتاب الإحصائي السنوي الإسرائيلي 2022 (رقم 72). القدس."
+    ],
+    "sources_en": [
+      "Wall and Settlement Resistance Commission, 2022. Settlement Database. Ramallah - Palestine.",
+      "Ministry of Local Government, 2017. GeoMOLG. Ramallah - Palestine.",
+      "Israeli Central Bureau of Statistics, 2022. Statistical Abstract of Israel 2022 (No. 72). Jerusalem."
+    ]
+}

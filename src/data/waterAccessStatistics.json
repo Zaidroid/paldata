@@ -1,0 +1,74 @@
+[
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2021,
+      "percentage_access_safe_water": 95.2
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2021,
+      "percentage_access_safe_water": 88.1
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2021,
+      "percentage_access_safe_water": 98.5
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2021,
+      "percentage_access_safe_water": 92
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2021,
+      "percentage_access_safe_water": 97.3
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2021,
+      "percentage_access_safe_water": 90.5
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2021,
+      "percentage_access_safe_water": 96.8
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2021,
+      "percentage_access_safe_water": 85.4
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2021,
+      "percentage_access_safe_water": 99.1
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2021,
+      "percentage_access_safe_water": 91.5
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2021,
+      "percentage_access_safe_water": 89.9
+    },
+    {
+      "governorate_ar": "الضفة الغربية (المعدل)",
+      "governorate_en": "West Bank (Average)",
+      "year": 2021,
+      "percentage_access_safe_water": 93.7
+    }
+]

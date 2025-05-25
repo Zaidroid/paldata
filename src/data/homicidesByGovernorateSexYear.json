@@ -1,0 +1,2306 @@
+[
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2015,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 6
+    },
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2015,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2015,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 6
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2015,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 1
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2015,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2015,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 1
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2015,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 2
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2015,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2015,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 2
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2015,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 11
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2015,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 3
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2015,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 14
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2015,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 3
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2015,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2015,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 3
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2015,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 0
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2015,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 1
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2015,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 1
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2015,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 6
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2015,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2015,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 6
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2015,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 1
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2015,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2015,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 1
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2015,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 6
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2015,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 1
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2015,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 7
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2015,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 2
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2015,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2015,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 2
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2015,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 9
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2015,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 2
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2015,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 11
+    },
+    {
+      "governorate_ar": "المجموع",
+      "governorate_en": "Total",
+      "year": 2015,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 47
+    },
+    {
+      "governorate_ar": "المجموع",
+      "governorate_en": "Total",
+      "year": 2015,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 7
+    },
+    {
+      "governorate_ar": "المجموع",
+      "governorate_en": "Total",
+      "year": 2015,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 54
+    },
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2017,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 3
+    },
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2017,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2017,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 3
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2017,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 0
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2017,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2017,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 0
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2017,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 3
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2017,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2017,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 3
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2017,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 7
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2017,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 1
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2017,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 8
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2017,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 3
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2017,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2017,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 3
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2017,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 0
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2017,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2017,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 0
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2017,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 1
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2017,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 4
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2017,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 5
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2017,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 1
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2017,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2017,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 1
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2017,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 3
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2017,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2017,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 3
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2017,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 3
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2017,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2017,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 3
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2017,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 5
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2017,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2017,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 5
+    },
+    {
+      "governorate_ar": "المجموع",
+      "governorate_en": "Total",
+      "year": 2017,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 29
+    },
+    {
+      "governorate_ar": "المجموع",
+      "governorate_en": "Total",
+      "year": 2017,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 5
+    },
+    {
+      "governorate_ar": "المجموع",
+      "governorate_en": "Total",
+      "year": 2017,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 34
+    },
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2018,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 4
+    },
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2018,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 2
+    },
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2018,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 6
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2018,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 0
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2018,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2018,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 0
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2018,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 2
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2018,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2018,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 2
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2018,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 2
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2018,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 1
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2018,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 3
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2018,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 1
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2018,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2018,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 1
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2018,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 0
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2018,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2018,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 0
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2018,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 3
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2018,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2018,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 3
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2018,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 0
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2018,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2018,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 0
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2018,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 3
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2018,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2018,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 3
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2018,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 1
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2018,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2018,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 1
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2018,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 5
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2018,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2018,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 5
+    },
+    {
+      "governorate_ar": "المجموع",
+      "governorate_en": "Total",
+      "year": 2018,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 21
+    },
+    {
+      "governorate_ar": "المجموع",
+      "governorate_en": "Total",
+      "year": 2018,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 3
+    },
+    {
+      "governorate_ar": "المجموع",
+      "governorate_en": "Total",
+      "year": 2018,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 24
+    },
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2019,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 4
+    },
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2019,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2019,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 4
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2019,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 2
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2019,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2019,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 2
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2019,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 2
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2019,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2019,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 2
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2019,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 7
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2019,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2019,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 7
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2019,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 1
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2019,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2019,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 1
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2019,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 0
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2019,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 1
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2019,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 1
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2019,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 1
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2019,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2019,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 1
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2019,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 0
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2019,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2019,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 0
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2019,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 3
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2019,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 1
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2019,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 4
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2019,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 1
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2019,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 2
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2019,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 3
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2019,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 7
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2019,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 3
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2019,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 10
+    },
+    {
+      "governorate_ar": "المجموع",
+      "governorate_en": "Total",
+      "year": 2019,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 28
+    },
+    {
+      "governorate_ar": "المجموع",
+      "governorate_en": "Total",
+      "year": 2019,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 7
+    },
+    {
+      "governorate_ar": "المجموع",
+      "governorate_en": "Total",
+      "year": 2019,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 35
+    },
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2020,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 3
+    },
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2020,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 1
+    },
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2020,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 4
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2020,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 0
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2020,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2020,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 0
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2020,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 2
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2020,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 1
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2020,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 3
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2020,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 5
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2020,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 3
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2020,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 8
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2020,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 2
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2020,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 3
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2020,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 5
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2020,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 3
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2020,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 4
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2020,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 7
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2020,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 0
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2020,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2020,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 0
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2020,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 7
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2020,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 2
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2020,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 9
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2020,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 1
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2020,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2020,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 1
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2020,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 11
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2020,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2020,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 11
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2020,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 0
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2020,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2020,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 0
+    },
+    {
+      "governorate_ar": "المجموع",
+      "governorate_en": "Total",
+      "year": 2020,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 34
+    },
+    {
+      "governorate_ar": "المجموع",
+      "governorate_en": "Total",
+      "year": 2020,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 14
+    },
+    {
+      "governorate_ar": "المجموع",
+      "governorate_en": "Total",
+      "year": 2020,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 48
+    },
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2021,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 5
+    },
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2021,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 1
+    },
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2021,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 6
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2021,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 2
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2021,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2021,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 2
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2021,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 2
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2021,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2021,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 2
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2021,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 3
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2021,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2021,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 3
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2021,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 2
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2021,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2021,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 2
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2021,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 2
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2021,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2021,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 2
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2021,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 7
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2021,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 2
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2021,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 9
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2021,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 0
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2021,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2021,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 0
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2021,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 7
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2021,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 2
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2021,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 9
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2021,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 1
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2021,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2021,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 1
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2021,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 5
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2021,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 4
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2021,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 9
+    },
+    {
+      "governorate_ar": "المجموع",
+      "governorate_en": "Total",
+      "year": 2021,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 36
+    },
+    {
+      "governorate_ar": "المجموع",
+      "governorate_en": "Total",
+      "year": 2021,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 9
+    },
+    {
+      "governorate_ar": "المجموع",
+      "governorate_en": "Total",
+      "year": 2021,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 45
+    },
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2022,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 15
+    },
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2022,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 1
+    },
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2022,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 16
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2022,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 2
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2022,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 1
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2022,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 3
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2022,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 1
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2022,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2022,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 1
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2022,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 7
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2022,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2022,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 7
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2022,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 2
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2022,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2022,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 2
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2022,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 1
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2022,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2022,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 1
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2022,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 3
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2022,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2022,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 3
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2022,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 0
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2022,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 1
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2022,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 1
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2022,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 4
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2022,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2022,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 4
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2022,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 0
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2022,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2022,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 0
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2022,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 17
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2022,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2022,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 17
+    },
+    {
+      "governorate_ar": "المجموع",
+      "governorate_en": "Total",
+      "year": 2022,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 52
+    },
+    {
+      "governorate_ar": "المجموع",
+      "governorate_en": "Total",
+      "year": 2022,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 3
+    },
+    {
+      "governorate_ar": "المجموع",
+      "governorate_en": "Total",
+      "year": 2022,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 55
+    },
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2023,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 3
+    },
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2023,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 1
+    },
+    {
+      "governorate_ar": "جنين",
+      "governorate_en": "Jenin",
+      "year": 2023,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 4
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2023,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 1
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2023,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "طوباس والأغوار الشمالية",
+      "governorate_en": "Tubas & Northern Jordan Valley",
+      "year": 2023,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 1
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2023,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 4
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2023,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "طولكرم",
+      "governorate_en": "Tulkarm",
+      "year": 2023,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 4
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2023,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 6
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2023,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 3
+    },
+    {
+      "governorate_ar": "نابلس",
+      "governorate_en": "Nablus",
+      "year": 2023,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 9
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2023,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 6
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2023,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 1
+    },
+    {
+      "governorate_ar": "قلقيلية",
+      "governorate_en": "Qalqilya",
+      "year": 2023,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 7
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2023,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 0
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2023,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "سلفيت",
+      "governorate_en": "Salfit",
+      "year": 2023,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 0
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2023,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 4
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2023,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 1
+    },
+    {
+      "governorate_ar": "رام الله والبيرة",
+      "governorate_en": "Ramallah & Al-Bireh",
+      "year": 2023,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 5
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2023,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 0
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2023,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "أريحا والأغوار",
+      "governorate_en": "Jericho & The Jordan Valley",
+      "year": 2023,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 0
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2023,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 6
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2023,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 1
+    },
+    {
+      "governorate_ar": "القدس",
+      "governorate_en": "Jerusalem",
+      "year": 2023,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 7
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2023,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 2
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2023,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "بيت لحم",
+      "governorate_en": "Bethlehem",
+      "year": 2023,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 2
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2023,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 11
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2023,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 0
+    },
+    {
+      "governorate_ar": "الخليل",
+      "governorate_en": "Hebron",
+      "year": 2023,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 11
+    },
+    {
+      "governorate_ar": "المجموع",
+      "governorate_en": "Total",
+      "year": 2023,
+      "sex_ar": "ذكر",
+      "sex_en": "Male",
+      "count": 43
+    },
+    {
+      "governorate_ar": "المجموع",
+      "governorate_en": "Total",
+      "year": 2023,
+      "sex_ar": "انثى",
+      "sex_en": "Female",
+      "count": 7
+    },
+    {
+      "governorate_ar": "المجموع",
+      "governorate_en": "Total",
+      "year": 2023,
+      "sex_ar": "كلا الجنسين",
+      "sex_en": "Both",
+      "count": 50
+    }
+]
